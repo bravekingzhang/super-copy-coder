@@ -5,6 +5,9 @@ An AI-powered tool that generates detailed development prompts from UI designs a
 
 ![Super Copy Coder Preview](./artificial/screen.jpg)
 
+
+![Super Copy Coder 预览](./artificial/screen-2.png)
+
 ### Key Capabilities:
 
 1. **Upload & Analysis**
